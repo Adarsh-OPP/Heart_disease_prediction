@@ -51,6 +51,7 @@ The trained model achieves **94% accuracy on the test set**.
 
 4. **📊 Model Performance**
    -Algorithm: Random Forest Classifier
+   
    -Accuracy: 94% on test set
    
 
