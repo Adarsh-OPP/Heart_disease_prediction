@@ -50,6 +50,7 @@ The trained model achieves **94% accuracy on the test set**.
   - Change new_data_prepared to user_data in the prediction variable
 
 4. **📊 Model Performance**
+   
    -Algorithm: Random Forest Classifier
    
    -Accuracy: 94% on test set
