@@ -4,6 +4,8 @@ This project uses Machine Learning to predict whether a person has heart disease
 The trained model achieves **94% accuracy on the test set**.
 
 ---
+## 🎥 Video Demo
+[![Watch the video](https://img.youtube.com/vi/5VNQNGwLEjg/maxresdefault.jpg)](https://youtu.be/5VNQNGwLEjg)
 
 ## 📂 Project Structure
 - **`dataProcessing.ipynb`** → Prepares the dataset, trains the model, and generates:
