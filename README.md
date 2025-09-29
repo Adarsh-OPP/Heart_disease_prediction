@@ -65,8 +65,15 @@ The trained model achieves **94% accuracy on the test set**.
 
 ## 🧑‍💻 Author  
 Developed by [Adarsh-OPP](https://github.com/Adarsh-OPP)  
+For more information contact on discord(adarsh0910)
 
 ## 📜 License  
 This project is licensed under the **MIT License** – feel free to use, modify, and distribute it as per your needs.  
 
-   
+## 📦 Libraries Used
+
+- pandas  
+- joblib  
+- numpy  
+- scikit-learn  
+
