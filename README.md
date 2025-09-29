@@ -55,6 +55,18 @@ The trained model achieves **94% accuracy on the test set**.
    
    -Accuracy: 94% on test set
    
+## ✅ Example Prediction
 
+**Input:** Patient data with medical features  
+
+**Output:**  
+- `0` → No Heart Disease  
+- `1` → Heart Disease Present  
+
+## 🧑‍💻 Author  
+Developed by [Adarsh-OPP](https://github.com/Adarsh-OPP)  
+
+## 📜 License  
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute it as per your needs.  
 
    
